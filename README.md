@@ -36,7 +36,3 @@ This script automates the process of generating various reports and test scripts
 - The script assumes the presence of an environment file named in the format `UNIT_NAME.env` in the current directory.
 - Reports and test scripts are stored in a folder named `UNIT_NAME_VCAST_SI_Results` within the current directory.
 
----
-
-You can save the above content in a file named `README.md` and place it alongside the script for documentation purposes.# VectorCast_SI_Report_Generator
-Autometically Generate SI Reports from VectoCAST 
